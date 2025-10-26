@@ -6,6 +6,8 @@ Record audio on your phone → Send to backend → Get AI transcription → View
 
 > **📱 Platform**: Tested on **iOS 13.0+** only. Android support not yet verified.
 
+https://github.com/user-attachments/assets/dd5bac75-c66e-41cd-87e9-5a9e1a18206c
+
 ---
 
 ## 🏗️ Architecture
