@@ -81,7 +81,7 @@ frontend/lib/
 - **OpenAI API Key** (optional, uses mock mode without it)
 - **iOS Device/Simulator** (iOS 13.0+)
 
-> ⚠️ **Note**: Due to time constraints, this app has been tested **only on iOS** (latest versions). While Flutter is cross-platform, Android compatibility has not been verified. We recommend running the app on **iOS 13.0 or later** for the best experience.
+> ⚠️ **Note**: Due to time constraints, this app has been tested **only on iOS** (latest versions). While Flutter is cross-platform, Android compatibility has not been verified. I recommend running the app on **iOS 13.0 or later** for the best experience.
 
 ### Backend Setup
 
