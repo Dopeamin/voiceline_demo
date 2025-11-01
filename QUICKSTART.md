@@ -54,18 +54,6 @@ flutter run
 4. **Speak** something clearly
 5. **Tap again** to stop and see the transcription!
 
-## Using Docker (Alternative)
-
-```bash
-# 1. Set environment variables
-export OPENAI_API_KEY=your-key-here
-export JWT_SECRET=your-secret-key
-
-# 2. Run with Docker Compose
-cd backend
-docker-compose up
-```
-
 ## Troubleshooting
 
 **Can't connect from app to backend?**
